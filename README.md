@@ -39,5 +39,7 @@ def fun():
 ```
 fun()
 ```
+## task
+printf("hello world");
 
 
