@@ -25,8 +25,8 @@ dtdfyhfg
    2. eceB
 ## umordered list
 - eee
-   *eeeA
-   *eeeB
+   * eeeA
+   * eeeB
 - sam
    + sam1
    + sam2
