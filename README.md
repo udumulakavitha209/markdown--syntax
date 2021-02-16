@@ -41,5 +41,11 @@ fun()
 ```
 ## task
 printf("hello world");
-
+ ## task2
+ ```
+   #include <stdio.h>
+      //printf()
+      printf("hello apssdc")
+ ```     
+      return 0;
 
