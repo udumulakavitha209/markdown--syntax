@@ -52,4 +52,5 @@ printf("hello world");
 [markdown](https://www.markdownguide.org/cheat-sheet/)
 ## collage website link
 [kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
-
+## inserting images
+![pic](https://github.com/udumulakavitha209/markdown--syntax/blob/master/image.jpg)
